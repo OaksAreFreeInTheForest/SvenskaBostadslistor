@@ -1,3 +1,4 @@
+# Bostadskölistor över Göteborg
 
 ## Kommunala
 
@@ -8,7 +9,7 @@
 - Poseidon: https://poseidon.goteborg.se/
 
 
-## Private Queues in Gothenburg
+## Privata
 
 - Balder: https://www.balder.se/
 - Bengtsforhus: https://bengtsforshus.se/
@@ -39,7 +40,7 @@
 - Qasa: https://qasa.com/se/en/find-home
 
 
-## Student Apartments
+## Studentlägenheter
 
 - Guldheden: https://www.guldheden.com/
 - Heimstaden: https://heimstaden.com/se/studentbostader/
@@ -48,7 +49,7 @@
 - Studentbostäder i Norden: https://sbsstudent.se/
 
 
-## Kommunala queues outside of Gothenburg 
+## Kommunala bostadsköer utanför Göteborg
 
  - Alebyggen: https://www.alebyggen.se/
  - Bofast: https://www.bofast.se/
