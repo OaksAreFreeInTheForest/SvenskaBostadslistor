@@ -6,4 +6,6 @@ Listorna innehåller bostadsköer primärt för dess område, men kan innehålla
 
 ## Nuvarande Listor av Bostadsköer
 
+*Bostadskölistorna finns under ``./Bostadsköer/`` som markdown filer.*
+
 - [Göteborg](./Bostadsköer/Göteborg.md)
