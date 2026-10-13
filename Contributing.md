@@ -25,10 +25,14 @@ Sist i listan kan relevanta närliggande bostadsköer listas. Då väljs en valf
 ### Lista Bostadsköer
 
 Bostadsköer inom vadera rubrik listad en per rad, helst i bokstavsordning, enligt:
+
 `- Namn_på_bostadskön: https://länk_till_bostadskö.se`
 
-Exempelvis: 
+
+**Exempel:**
+
 `- Boplats Väst: https://boplats.se/`
+
 Vilket renderas som:
 - Boplats Väst: https://boplats.se/
 
