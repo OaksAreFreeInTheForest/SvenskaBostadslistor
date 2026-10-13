@@ -6,12 +6,15 @@ Alla är välkomna att bidra till existerande bostadslistor, eller skapa nya bos
 
 Bostadslistorna skrivs i markdown filer (.md), där filnamnet motsvarar staden eller området som listan har bostadsköer över. Å, ä, ö och andra specialkaraktärer får användas i filnamnen.  
 
+Filerna över bostadsköer ligger i katalogen: [./Bostadsköer/](./Bostadsköer/).
+
 ## Text Formatering
 
 ### Första Rubrik
 
 Listorna börjar med områdesbenämning some första rubrik (#). Områdesbenämning kan vara en stad eller ett område.
 Exempelvis: Göteborg
+
 ### Andra Rubrik
 
 Listorna sorterar olika slag av bostadsköer med andra ordningens rubriker (##). Dessa rubriker sker i ordning:
@@ -27,7 +30,6 @@ Sist i listan kan relevanta närliggande bostadsköer listas. Då väljs en valf
 Bostadsköer inom vadera rubrik listad en per rad, helst i bokstavsordning, enligt:
 
 `- Namn_på_bostadskön: https://länk_till_bostadskö.se`
-
 
 **Exempel:**
 
