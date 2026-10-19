@@ -1,5 +1,6 @@
 # Bostadskölistor över Göteborg
 
+Se den senaste uppdaterade listan på: https://github.com/OaksAreFreeInTheForest/SvenskaBostadslistor/
 ## Kommunala
 
 - Boplats Väst: https://boplats.se/
@@ -56,3 +57,6 @@
  - Förbo:  https://www.förbo.se/
  - Kungälvs-bostäder: https://www.kungalvsbostader.se/
  - Partillebo: https://www.partillebo.se/
+
+
+
